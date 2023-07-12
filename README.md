@@ -1,8 +1,8 @@
 # daily_update
 # Run below commands
 
-sudo mv daily_update.sh /usr/local/bin/
+_sudo mv daily_update.sh /usr/local/bin/_
 
-sudo chmod +x /usr/local/bin/daily_update.sh
+_sudo chmod +x /usr/local/bin/daily_update.sh_
 
-daily_update.sh
+_daily_update.sh_
